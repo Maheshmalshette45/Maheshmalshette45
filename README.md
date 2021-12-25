@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maheshmalshette45
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Bca
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me my LinkedIn I'd is https://www.linkedin.com/in/mahesh-malshette-981a90223
 
 <!---
